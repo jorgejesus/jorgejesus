@@ -7,7 +7,7 @@
 ## About
 
 - 🔭 I’m currently working on ... [ISRIC - World Soil Reference](https://isric.org)
-- 🌱 I’m currently learning ...[Spatial-Temporal Neural Networks](https://arxiv.org/abs/1804.08562), [Nag hammadi library](https://en.wikipedia.org/wiki/Nag_Hammadi_library)
+- 🌱 I’m currently learning ...[Spatial-Temporal Neural Networks](https://github.com/edouardelasalles/stnn), [Nag hammadi library](https://en.wikipedia.org/wiki/Nag_Hammadi_library)
 - 👯 I’m looking to collaborate on ... [Pygeoapi](https://pygeoapi.io/), Spatial Analysis Research
 - 🤔 I’m looking for help with ... Unity and C# for augmented reality with spatial data
 - 💬 Ask me about ... Linux admin, kubernetes pilot, Doctor of philosophy, Python Elder 
