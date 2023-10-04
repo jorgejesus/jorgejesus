@@ -12,7 +12,8 @@
 - 💬 Ask me about ... Linux admin, kubernetes, Docker, Python Elder 
 - 📫 How to reach me: ... [Telegram](https://telegram.me/dovtov), [Linkedin](https://www.linkedin.com/in/jorgedejesus/)
 - 😄 Pronouns: ... He/Him 
-- ⚡ Fun facts: ... I've ✨✨✨✨ in my brain, I love grey winters and rain
+- ⚡ Fun facts: ... I love grey winters and rain
+
 
 ## Look at the bunny
 
