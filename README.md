@@ -7,13 +7,12 @@
 ## About
 
 - 🔭 I’m currently working at ...
-- 🌱 I’m currently learning ...[https://www.ansible.com/](https://www.ansible.com/)
-- 💻 I've updagraded all my servers and house network to IPv6 and CAT8 cables
-- 💬 Ask me about ... Linux admin, kubernetes, Docker, Python Elder 
+- 🌱 I’m currently learning ... How to navigate Dutch burocracy
+- 💻 I've build a ryzen 7950x with an [open case](https://www.youtube.com/watch?v=NlJr8539IKc)  
+- 💬 Ask me about ... Linux admin, kubernetes, Docker, Python 
 - 📫 How to reach me: ... [Telegram](https://telegram.me/dovtov), [Linkedin](https://www.linkedin.com/in/jorgedejesus/)
 - 😄 Pronouns: ... He/Him 
 - ⚡ Fun facts: ... I love grey winters and rain
-
 
 ## Look at the bunny
 
