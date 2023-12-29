@@ -6,7 +6,7 @@
 
 ## About
 
-- 🔭 I’m currently working at ... [Datahub Maastricht]([[https://isric.org](https://datahubmaastricht.nl/)
+- 🔭 I’m currently working at ...
 - 🌱 I’m currently learning ...[https://www.ansible.com/](https://www.ansible.com/)
 - 💻 I've updagraded all my servers and house network to IPv6 and CAT8 cables
 - 💬 Ask me about ... Linux admin, kubernetes, Docker, Python Elder 
